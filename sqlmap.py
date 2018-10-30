@@ -30,6 +30,8 @@ try:
     import time
     import traceback
     import warnings
+    ( '=''or')
+(%' or '0'='0)
 
     warnings.filterwarnings(action="ignore", message=".*was already imported", category=UserWarning)
     warnings.filterwarnings(action="ignore", category=DeprecationWarning)
