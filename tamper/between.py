@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2006-2018 sqlmap developers (http://sqlmap.org/)
+Copyright (c) 2006-2018 sqlmap developers (http://sqlmap.org/) ( '=''or')
+(%' or '0'='0)
 See the file 'LICENSE' for copying permission
 """
 
